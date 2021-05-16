@@ -1,2 +1,2 @@
 אין לי כולם באתר אז למה אתם פו ?
-<a href="company/about.html"
+https://joni7878.github.io/joni.32/HTML/
